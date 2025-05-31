@@ -1,0 +1,68 @@
+site_name: Home
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+extra_javascript:
+  - js/extra.js
+  - js/leaflet.js
+extra_css:
+  - css/neoteroi-timeline.css
+  - css/neoteroi-mkdocs.min.css
+  - css/extra.css
+  - css/leaflet.css
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.blocks.caption
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.inlinehilite
+  - admonition
+  - neoteroi.timeline
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - glightbox
+  - search
+  - neoteroi.mkdocsoad:
+      use_pymdownx: true
+nav:
+    - home: index.md
+    - Competetive Programming: cp.md
+    - Hackathons: hack.md
+    - Piano: piano.md

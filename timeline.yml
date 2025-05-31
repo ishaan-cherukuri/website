@@ -1,0 +1,15 @@
+- content: 
+  icon: ':material-rocket-launch-outline:'
+  title: Caribou Preys on Lichen.
+- content: Unintentionally uncovers hidden animals beneath the snow, when digging for Lichen.
+  icon: ':fontawesome-solid-gem:'
+  title: Caribou digs under the Snow 
+- content: Artic Fox preys on the small mammals beneath the snow (previously uncovered by Carbiou).
+  icon: ':material-gauge-empty:'
+  title: Artic Fox follows Caribou
+- content: Fox benefits, Caribou neither benifits nor is harmed (Commensalistic Relationship)
+  icon: ':material-bug:'
+  title: Result
+
+
+
