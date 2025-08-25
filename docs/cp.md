@@ -1,19 +1,18 @@
-# 🧠 Competitive Programming
+# Competitive Programming
 
 I enjoy solving algorithmic challenges and competing in timed contests that test logic, data structures, and problem-solving speed. Here's a snapshot of my recent achievements:
 
-## 🏆 Achievements
+## Achievements
 
 - **USACO Silver** as of **January 2025**
 - **PClassic Fall 2024** – *11th Place*, **Novice Division**
 - **Lockheed Martin Code Quest 2025** – *3rd Place*, **Advanced Division**
 - **Lockheed Martin Code Quest 2024** – *2nd Place*, **Novice Division**
 
-## 📸 Highlight
+## Highlight
 
-![Code Quest 2025 – 3rd Place (Advanced Division)](assets/images/codequest2025_award.jpg){ loading=lazy width="500" }
+![Code Quest 2025 – 3rd Place (Advanced Division)](assets/images/codequest2025_award.jpg){ loading=lazy width="400" }
 
-> Proud moment from the 2025 Code Quest competition.
 
 ---
 

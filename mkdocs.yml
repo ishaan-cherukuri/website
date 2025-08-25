@@ -66,3 +66,5 @@ nav:
     - Competetive Programming: cp.md
     - Hackathons: hack.md
     - Music: music.md
+    - Machine Learning: 
+        - kaggle.md

@@ -1,10 +1,10 @@
-# 🎼 Music
+# Music
 
 Music has been an important creative outlet for me, especially through the piano. I’ve performed in recitals, competed in festivals, and shared my playing online.
 
 ---
 
-## 🎹 Piano Performance
+## Piano Performance
 
 - I have been playing the **piano** for several years.
 - Regularly performed at the **Sounds of Music Recital** (2022–2024), organized by **Music-Fest**.
@@ -16,7 +16,7 @@ Music has been an important creative outlet for me, especially through the piano
 
 ---
 
-## 🏅 Rising Talents Festival – **Gold Prize**
+## Rising Talents Festival – **Gold Prize**
 
 In 2025, I auditioned for the **Rising Talents Festival** and was awarded the **Gold Prize**. This recognition allowed me to perform (virtually) at the **National Opera America Center**.
 
@@ -29,10 +29,14 @@ In 2025, I auditioned for the **Rising Talents Festival** and was awarded the **
 
 ---
 
-## 📺 Piano YouTube Channel
+## Piano YouTube Channel
 
 Check out my performances on my YouTube channel:
 
-👉 [@IshaanCherukuri on YouTube](https://www.youtube.com/@IshaanCherukuri)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLBhBE-ik_g" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
-> I use my channel to showcase pieces I’ve practiced and performed, and to track my musical progress over time.
+👉 <a href="https://www.youtube.com/@IshaanCherukuri" target="_blank" rel="noopener"> @IshaanCherukuri on YouTube </a>
+

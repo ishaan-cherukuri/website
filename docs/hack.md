@@ -1,10 +1,10 @@
-# 🚀 Hackathons
+# Hackathons
 
 I enjoy participating in hackathons that challenge my creativity and teamwork skills. Here are some of the most impactful ones I’ve attended:
 
 ---
 
-## 🧭 HSN Hacks  
+## HSN Hacks  
 **Hosted by:** HSN CS Club & Girls Who Code  
 **Team size:** 3
 
@@ -17,7 +17,7 @@ We built an **interactive map** to spread awareness of ICE detention centers acr
 
 ---
 
-## 🌱 HackUMBC  
+## HackUMBC  
 **Team size:** 3  
 **GitHub Repo:** [HackUMBC – Carbon Footprint Forum](https://github.com/RajDharkar/HackUMBC)
 
@@ -30,13 +30,13 @@ Created a **carbon footprint calculator and community forum** that allows users 
 
 ---
 
-## 🚑 MakeSPP  
+## MakeSPP  
 **Team size:** 4  
 **GitHub Repo:** [Ambulance Pathfinder](https://github.com/ishaan-cherukuri/ambulance-pathfinder)
 
 Designed an **ambulance pathfinding system** to navigate around traffic blocks and reach destinations on time using a grid-based map and obstacle detection.
 
-![Screenshot from MakeSPP project](assets/images/makespp_2024.png){ loading=lazy width="500" }
+![Screenshot from MakeSPP project](assets/images/makespp_2024.png){ loading=lazy width="400" }
 
 ???+ info "Technologies & Skills"
     - Python (Pathfinding Algorithms)
