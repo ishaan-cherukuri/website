@@ -15,7 +15,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.instant
+    # - navigation.instant  # Disabled for live reload during development
     - navigation.sections
     - navigation.tabs
     - content.code.copy
@@ -61,10 +61,16 @@ plugins:
   - search
   - neoteroi.mkdocsoad:
       use_pymdownx: true
+watch:
+  - docs
+  - mkdocs.yml
+  - timeline.yml
+  - cards.yml
 nav:
-    - home: index.md
+    - Hi, I'm Ishaan!: index.md
     - Competetive Programming: cp.md
     - Hackathons: hack.md
     - Music: music.md
     - Machine Learning: 
         - kaggle.md
+  

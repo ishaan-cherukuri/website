@@ -6,8 +6,8 @@ I enjoy solving algorithmic challenges and competing in timed contests that test
 
 - **USACO Silver** as of **January 2025**
 - **PClassic Fall 2024** – *11th Place*, **Novice Division**
-- **Lockheed Martin Code Quest 2025** – *3rd Place*, **Advanced Division**
 - **Lockheed Martin Code Quest 2024** – *2nd Place*, **Novice Division**
+- **Lockheed Martin Code Quest 2025** – *3rd Place*, **Advanced Division**
 
 ## Highlight
 
