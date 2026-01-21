@@ -39,4 +39,3 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen></iframe>
 
 👉 <a href="https://www.youtube.com/@IshaanCherukuri" target="_blank" rel="noopener"> @IshaanCherukuri on YouTube </a>
-
