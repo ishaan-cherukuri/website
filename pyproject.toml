@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "markdown-extensions>=0.0.1",
     "mkdocs>=1.6.1",
+    "mkdocs-glightbox>=0.5.2",
     "mkdocs-material>=9.7.1",
     "neoteroi-mkdocs>=1.2.0",
     "pymdown-extensions>=10.19.1",
